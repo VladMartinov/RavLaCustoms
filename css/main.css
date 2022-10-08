@@ -4,7 +4,7 @@
 html, body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
-  scroll-behavior: smooth;
+  scroll-behavior: smooth;  
 }
 
 a {
@@ -612,9 +612,9 @@ header {
   position: absolute;
   text-align: center;
   top: 533px;
-  right: -200px;
+  right: 0px;
   z-index: 2;
-  padding-right: 243px;
+  padding-right: 100px;
   overflow: hidden;
 
   padding-left: 57px;
